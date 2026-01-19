@@ -1,0 +1,17 @@
+E:\winform\Chat_DinhPhong\Chat_DinhPhong\bin\Debug\net8.0-windows\Client.exe
+E:\winform\Chat_DinhPhong\Chat_DinhPhong\bin\Debug\net8.0-windows\Client.deps.json
+E:\winform\Chat_DinhPhong\Chat_DinhPhong\bin\Debug\net8.0-windows\Client.runtimeconfig.json
+E:\winform\Chat_DinhPhong\Chat_DinhPhong\bin\Debug\net8.0-windows\Client.dll
+E:\winform\Chat_DinhPhong\Chat_DinhPhong\bin\Debug\net8.0-windows\Client.pdb
+E:\winform\Chat_DinhPhong\Chat_DinhPhong\obj\Debug\net8.0-windows\Chat_DinhPhong.Client.resources
+E:\winform\Chat_DinhPhong\Chat_DinhPhong\obj\Debug\net8.0-windows\Client.csproj.GenerateResource.cache
+E:\winform\Chat_DinhPhong\Chat_DinhPhong\obj\Debug\net8.0-windows\Client.GeneratedMSBuildEditorConfig.editorconfig
+E:\winform\Chat_DinhPhong\Chat_DinhPhong\obj\Debug\net8.0-windows\Client.AssemblyInfoInputs.cache
+E:\winform\Chat_DinhPhong\Chat_DinhPhong\obj\Debug\net8.0-windows\Client.AssemblyInfo.cs
+E:\winform\Chat_DinhPhong\Chat_DinhPhong\obj\Debug\net8.0-windows\Client.csproj.CoreCompileInputs.cache
+E:\winform\Chat_DinhPhong\Chat_DinhPhong\obj\Debug\net8.0-windows\Client.dll
+E:\winform\Chat_DinhPhong\Chat_DinhPhong\obj\Debug\net8.0-windows\refint\Client.dll
+E:\winform\Chat_DinhPhong\Chat_DinhPhong\obj\Debug\net8.0-windows\Client.pdb
+E:\winform\Chat_DinhPhong\Chat_DinhPhong\obj\Debug\net8.0-windows\Client.genruntimeconfig.cache
+E:\winform\Chat_DinhPhong\Chat_DinhPhong\obj\Debug\net8.0-windows\ref\Client.dll
+E:\winform\Chat_DinhPhong\Chat_DinhPhong\obj\Debug\net8.0-windows\Client.Properties.Resources.resources

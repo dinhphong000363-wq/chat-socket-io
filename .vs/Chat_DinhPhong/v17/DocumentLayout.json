@@ -1,0 +1,94 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\winform\\Chat_DinhPhong\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0DF47460-BDA0-49DC-A85A-0CE06551AF8C}|Chat_DinhPhong\\Client.csproj|e:\\winform\\chat_dinhphong\\chat_dinhphong\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DF47460-BDA0-49DC-A85A-0CE06551AF8C}|Chat_DinhPhong\\Client.csproj|solutionrelative:chat_dinhphong\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A1570FD-D6C9-4D85-8F5A-F0F8C0867163}|Sever\\Server.csproj|e:\\winform\\chat_dinhphong\\sever\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A1570FD-D6C9-4D85-8F5A-F0F8C0867163}|Sever\\Server.csproj|solutionrelative:sever\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A1570FD-D6C9-4D85-8F5A-F0F8C0867163}|Sever\\Server.csproj|E:\\winform\\Chat_DinhPhong\\sever\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2A1570FD-D6C9-4D85-8F5A-F0F8C0867163}|Sever\\Server.csproj|solutionrelative:sever\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DF47460-BDA0-49DC-A85A-0CE06551AF8C}|Chat_DinhPhong\\Client.csproj|E:\\winform\\Chat_DinhPhong\\chat_dinhphong\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0DF47460-BDA0-49DC-A85A-0CE06551AF8C}|Chat_DinhPhong\\Client.csproj|solutionrelative:chat_dinhphong\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Server.cs",
+              "DocumentMoniker": "E:\\winform\\Chat_DinhPhong\\Sever\\Server.cs",
+              "RelativeDocumentMoniker": "Sever\\Server.cs",
+              "ToolTip": "E:\\winform\\Chat_DinhPhong\\Sever\\Server.cs",
+              "RelativeToolTip": "Sever\\Server.cs",
+              "ViewState": "AgIAAL4BAAAAAAAAAAAiwN4BAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T12:58:48.978Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Client.cs [Design]",
+              "DocumentMoniker": "E:\\winform\\Chat_DinhPhong\\Chat_DinhPhong\\Client.cs",
+              "RelativeDocumentMoniker": "Chat_DinhPhong\\Client.cs",
+              "ToolTip": "E:\\winform\\Chat_DinhPhong\\Chat_DinhPhong\\Client.cs [Design]",
+              "RelativeToolTip": "Chat_DinhPhong\\Client.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T11:16:16.235Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Server.cs [Design]",
+              "DocumentMoniker": "E:\\winform\\Chat_DinhPhong\\Sever\\Server.cs",
+              "RelativeDocumentMoniker": "Sever\\Server.cs",
+              "ToolTip": "E:\\winform\\Chat_DinhPhong\\Sever\\Server.cs [Design]",
+              "RelativeToolTip": "Sever\\Server.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T14:25:18.3Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Client.cs",
+              "DocumentMoniker": "E:\\winform\\Chat_DinhPhong\\Chat_DinhPhong\\Client.cs",
+              "RelativeDocumentMoniker": "Chat_DinhPhong\\Client.cs",
+              "ToolTip": "E:\\winform\\Chat_DinhPhong\\Chat_DinhPhong\\Client.cs",
+              "RelativeToolTip": "Chat_DinhPhong\\Client.cs",
+              "ViewState": "AgIAADkBAAAAAAAAAAAiwEQBAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T11:50:31.166Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

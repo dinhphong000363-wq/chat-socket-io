@@ -1,0 +1,17 @@
+E:\winform\Chat_DinhPhong\Sever\bin\Debug\net8.0-windows\Server.exe
+E:\winform\Chat_DinhPhong\Sever\bin\Debug\net8.0-windows\Server.deps.json
+E:\winform\Chat_DinhPhong\Sever\bin\Debug\net8.0-windows\Server.runtimeconfig.json
+E:\winform\Chat_DinhPhong\Sever\bin\Debug\net8.0-windows\Server.dll
+E:\winform\Chat_DinhPhong\Sever\bin\Debug\net8.0-windows\Server.pdb
+E:\winform\Chat_DinhPhong\Sever\obj\Debug\net8.0-windows\Sever.Server.resources
+E:\winform\Chat_DinhPhong\Sever\obj\Debug\net8.0-windows\Server.csproj.GenerateResource.cache
+E:\winform\Chat_DinhPhong\Sever\obj\Debug\net8.0-windows\Server.GeneratedMSBuildEditorConfig.editorconfig
+E:\winform\Chat_DinhPhong\Sever\obj\Debug\net8.0-windows\Server.AssemblyInfoInputs.cache
+E:\winform\Chat_DinhPhong\Sever\obj\Debug\net8.0-windows\Server.AssemblyInfo.cs
+E:\winform\Chat_DinhPhong\Sever\obj\Debug\net8.0-windows\Server.csproj.CoreCompileInputs.cache
+E:\winform\Chat_DinhPhong\Sever\obj\Debug\net8.0-windows\Server.dll
+E:\winform\Chat_DinhPhong\Sever\obj\Debug\net8.0-windows\refint\Server.dll
+E:\winform\Chat_DinhPhong\Sever\obj\Debug\net8.0-windows\Server.pdb
+E:\winform\Chat_DinhPhong\Sever\obj\Debug\net8.0-windows\Server.genruntimeconfig.cache
+E:\winform\Chat_DinhPhong\Sever\obj\Debug\net8.0-windows\ref\Server.dll
+E:\winform\Chat_DinhPhong\Sever\obj\Debug\net8.0-windows\Server.Properties.Resources.resources
